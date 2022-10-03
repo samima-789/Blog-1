@@ -39,12 +39,12 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin: 20px 0px;
+	margin: 10px 0px;
 	flex-wrap: wrap;
 }
 
 .blog-box{
-	width: 350px;
+	width: 30g0px;
 	margin: 20px;
 	background-color: #ffffff;
 	border: 1px solid #ececec;
